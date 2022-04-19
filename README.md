@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Sue-52
 - 👀 I’m interested in structure and algorithm，C program
 - 🌱 I’m currently learning structure and algorithm
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 [![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
 
