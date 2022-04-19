@@ -26,15 +26,11 @@
 
 <h2 align="Center"> Some Stats About Sue-52 </h2>
 
-<p align="Center" >
 [![Sue-52's github stats](https://github-readme-stats.vercel.app/api?username=Sue-52)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
-</p>
   
 <h2 align="Center"> About Sue-52 Most Used Languages </h2>
 
-<p align="Center" >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sue-52&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 <!---
 Sue-52/Sue-52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
