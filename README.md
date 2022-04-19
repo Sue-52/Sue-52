@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/Silence-dream)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sue-52)](https://github.com/anuraghazra/github-readme-stats?theme=tokyonight)
 
 
