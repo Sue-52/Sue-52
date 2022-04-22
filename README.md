@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" ></p>
+<p align="Center" ><img src="https://raw.githubusercontent.com/Sue-52/PicGo/main/images/preview.jpg" ></p>
 
 <h1 align="Center">  Hi Here is <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Sue-52 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 
